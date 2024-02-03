@@ -1,10 +1,16 @@
 <template>
-  <div id="app">
-    <VueHeader />
-    <div id="content" class="content">
+  <div id="app" class="nav-main-content">
+    <div class="nav-header">
+      <VueHeader />
+    </div>
+
+    <div id="content" class="main-color" >
         <router-view></router-view>
     </div>
+
   </div>
+  
+
 </template>
 
 <script>
