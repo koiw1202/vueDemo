@@ -9,7 +9,7 @@
                 
                 <li class="nav-item">
                     
-                    <a href="/" class="nav-title">서점 소개</a>
+                    <a href="/store" class="nav-title">서점 소개</a>
                     
                     <!-- <div class="nav-subs">
                         <div class="nav-sub">
